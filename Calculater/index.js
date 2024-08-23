@@ -1,1 +1,0 @@
-document.getElementById("q1").innerHTML="Ashan";
